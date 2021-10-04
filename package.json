@@ -1,0 +1,27 @@
+{
+  "name": "payment-method-with-node.js-and-stripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaiYashPramod/payment-method-with-node.js-and-stripe.git"
+  },
+  "author": "rai yash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaiYashPramod/payment-method-with-node.js-and-stripe/issues"
+  },
+  "homepage": "https://github.com/RaiYashPramod/payment-method-with-node.js-and-stripe#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "stripe": "^8.178.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
